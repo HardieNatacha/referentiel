@@ -9,5 +9,9 @@ jeudi 21 juillet 2022
 vendredi 22 juillet 2022
 -BOOTSTRAP
     -modèle en grille
-    -row
-    -column
+      -row
+      -column
+    -Quelques formes BOOTSTRAP
+       -navbar
+       -card
+       -carrossel
